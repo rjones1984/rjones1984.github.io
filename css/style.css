@@ -191,6 +191,7 @@ footer a:hover {
   .header-text {
     justify-content: space-between;
     text-align: center;
+    margin-top: 65px;
 
   }
 
