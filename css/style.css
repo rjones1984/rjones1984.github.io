@@ -206,3 +206,9 @@ footer a:hover {
   }
 
 }
+
+@media (max-width: 372px) {
+  .header-text {
+    margin-top: 120px;
+  }
+}
